@@ -36,7 +36,13 @@ Both AI and cryptocurrency are popular. Cryptocurrency and AI agents can work pr
 
 Numerous connections, including those with Solana, Opensea, Binance, Coinbase, Coin Gecko, and others, allow Crypto-Kit to link AI agents and automate processes. Additionally, you may create AI automation by utilising Composio interfaces with platforms like Reddit, Twitter, Gmail, and Discord.
 
-Read the <a href="https://docs.composio.dev/cryptokit/tools" class="inline-flex items-center gap-2 text-blue-600 hover:text-blue-800">documentation <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></a> for each of the Crypto-Kit tools.
+Read the <a href="https://docs.composio.dev/cryptokit/tools" class="inline-flex items-center gap-2 font-medium text-blue-600 hover:text-blue-800 transition-colors duration-200">
+    View Documentation
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ml-1">
+        <line x1="5" y1="12" x2="19" y2="12"></line>
+        <polyline points="12 5 19 12 12 19"></polyline>
+    </svg>
+</a> for each of the Crypto-Kit tools.
 
 ## [Hardhat | The Most Well-Known Ethereum Innovation](https://hardhat.org/)
 
