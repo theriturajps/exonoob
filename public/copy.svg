@@ -1,13 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-
-  <symbol id='empty' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <path fill="currentColor"
-      d="M64 464l224 0c8.8 0 16-7.2 16-16l0-64 48 0 0 64c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 224c0-35.3 28.7-64 64-64l64 0 0 48-64 0c-8.8 0-16 7.2-16 16l0 224c0 8.8 7.2 16 16 16zM224 304l224 0c8.8 0 16-7.2 16-16l0-224c0-8.8-7.2-16-16-16L224 48c-8.8 0-16 7.2-16 16l0 224c0 8.8 7.2 16 16 16zm-64-16l0-224c0-35.3 28.7-64 64-64L448 0c35.3 0 64 28.7 64 64l0 224c0 35.3-28.7 64-64 64l-224 0c-35.3 0-64-28.7-64-64z" />
-  </symbol>
-
-  <symbol id='filled' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-    <path fill="currentColor"
-      d="M288 448L64 448l0-224 64 0 0-64-64 0c-35.3 0-64 28.7-64 64L0 448c0 35.3 28.7 64 64 64l224 0c35.3 0 64-28.7 64-64l0-64-64 0 0 64zm-64-96l224 0c35.3 0 64-28.7 64-64l0-224c0-35.3-28.7-64-64-64L224 0c-35.3 0-64 28.7-64 64l0 224c0 35.3 28.7 64 64 64z" />
-  </symbol>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- Empty State -->
+  <path d="M16 4h2c1.1 0 2 .9 2 2v14c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2h2" 
+        fill="none" 
+        stroke="currentColor" 
+        stroke-width="2"
+        stroke-linecap="round"/>
+  
+  <!-- Top Clip -->
+  <rect x="8" y="2" 
+        width="8" height="4" 
+        rx="1" ry="1" 
+        fill="none" 
+        stroke="currentColor" 
+        stroke-width="2"/>
+  
+  <!-- Optional Content Lines -->
+  <line x1="8" y1="10" x2="16" y2="10" 
+        stroke="currentColor" 
+        stroke-width="2" 
+        stroke-linecap="round"/>
+  <line x1="8" y1="14" x2="16" y2="14" 
+        stroke="currentColor" 
+        stroke-width="2" 
+        stroke-linecap="round"/>
+  <line x1="8" y1="18" x2="12" y2="18" 
+        stroke="currentColor" 
+        stroke-width="2" 
+        stroke-linecap="round"/>
 </svg>
