@@ -3,7 +3,7 @@ import type { Site, Page, Links, Socials } from "@types"
 // Global
 export const SITE: Site = {
   TITLE: "Exo Noob's Blog",
-  DESCRIPTION: "Welcome to Exo Noob's Blog, a portfolio and blog for #techie, #developers and #students.",
+  DESCRIPTION: "Exo Noob is your ultimate resource for beginner-friendly blogging and tech advice. Whether you're just starting your blog or looking to enhance your online presence, we offer clear, actionable guides and smart strategies to help you succeed. From choosing the right blogging niche to mastering SEO and monetization, our easy-to-follow tips and expert insights will transform your blogging journey. Explore top-tier content and Start your path to blogging success with exonoob.in today!",
   AUTHOR: 'Ritu Raj',
 }
 
