@@ -2,10 +2,6 @@ Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and 
 
 It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
 
-## 🚀 Deploy your own
-
-[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/theriturajps/exonoob)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/theriturajps/exonoob)
-
 ## 📋 Features
 
 - ✅ 100/100 Lighthouse performance
