@@ -37,7 +37,7 @@ function copyCode(event) {
 		if (use) {
 			use.setAttribute('href', '/copy.svg#empty')
 		}
-	}, 100);
+	}, 1000);
 }
 
 function getChildByTagName(element, tagName) {
