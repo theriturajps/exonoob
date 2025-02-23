@@ -60,7 +60,9 @@ I've been using this method for years now and it works like a charm. The cool th
 
 But heads up before you dive in! 👋
 
-There's something you should know about Cloudflare Workers - they have [Cloudflare Workers Limits](https://developers.cloudflare.com/workers/platform/limits/). If you hit these limits, your site might go dark for a bit. Not fun, right? If that happens, you might want to think about upgrading to a paid plan to keep things running smoothly.
+There's something you should know about Cloudflare Workers - they have [Cloudflare Workers Limits](https://developers.cloudflare.com/workers/platform/limits/)[^1]. If you hit these limits, your site might go dark for a bit. Not fun, right? If that happens, you might want to think about upgrading to a paid plan to keep things running smoothly.
+
+[^1]: [Cloudflare Workers Limits](https://developers.cloudflare.com/workers/platform/limits/).
 
 ### Create Worker in Cloudflare
 
