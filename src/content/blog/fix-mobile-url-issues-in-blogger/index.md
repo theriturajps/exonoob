@@ -9,6 +9,8 @@ tags:
 
 Are those mobile redirects on your Blogger site driving you crazy? Let me break down what's happening in simple terms.
 
+![Fix ?m=1 Issue in Blogger URLs with Cloudflare - Best SEO-Friendly Solution](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV_kne6Hz7OWwjoTEg_5qZWc6xsav6frBSQ5kTn97ptghyzb0t6yNZa6EWxVw7AwVBRJO2ZdAppXUhimj2Y9qEXvodDl9Ne0EsFMHB5mBEHWUSiZPQEl6sjegLDVUIyNUk9pLZdF4uB3qTMRkCv6fJss7bIptyZ1IjdUQpNYC7PKXET6lkHIc3fGHorq4/s1600/fix-mobile-url-issues-in-blogger.webp)
+
 You know how your blog adds that pesky `m=1` to the end of URLs when someone visits from their phone? While Blogger says it's no big deal, it's actually causing some headaches in Google Search Console.
 
 ## Table of Contents
