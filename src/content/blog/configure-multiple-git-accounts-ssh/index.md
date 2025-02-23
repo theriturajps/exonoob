@@ -9,6 +9,7 @@ tags:
 - ssh
 - devtools
 ---
+
 Managing multiple [Git](https://git-scm.com/) accounts is a common challenge for developers who work with different organizations or maintain separate personal and professional repositories. Whether you're juggling accounts across [GitHub](https://github.com/), [GitLab](https://gitlab.com/), and [Bitbucket](https://bitbucket.org/), or managing multiple accounts on the same platform, this guide will show you how to set up and organize your Git accounts using [SSH authentication](https://www.ssh.com/academy/ssh/key).
 
 ## Prerequisites
