@@ -47,6 +47,23 @@ Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, e
 | `npm run lint`            | Run ESLint                                       |
 | `npm run lint:fix`        | Auto-fix ESLint issues                           |
 
+```
+<div tw="flex flex-col w-full h-full items-center justify-center bg-white p-8">
+  <div tw="flex flex-col w-full max-w-4xl">
+    <h1 tw="text-[80px] font-bold text-[#1a202c] leading-tight">
+      Exo Noob's Blog
+    </h1>
+    <p tw="text-[32px] text-gray-600 mt-4">
+      exonoob.in
+    </p>
+    <div tw="w-40 h-2 bg-blue-600 mt-2"></div>
+  </div>
+  <div tw="absolute bottom-8 right-8 bg-blue-600 text-white text-[48px] w-25 h-20 flex items-center justify-center rounded-lg">
+      ExN
+    </div>
+</div>
+```
+
 ## 🗺️ Roadmap
 
 A few features I plan to implement
