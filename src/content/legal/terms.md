@@ -1,6 +1,6 @@
 ---
 title: "Terms of Use"
-date: "03/07/2024"
+date: "03/07/2025"
 ---
 
 Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the [Website URL](https://www.exonoob.in/) website (the "Service") operated by **Exo Noob's Blog** ("us", "we", or "our").
