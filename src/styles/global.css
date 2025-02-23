@@ -130,7 +130,6 @@ article img {
 
 #meteors .shower {
   @apply absolute inset-0 top-0;
-  ;
   @apply left-1/2 -translate-x-1/2;
   @apply w-screen aspect-square;
 }
@@ -171,4 +170,44 @@ article img {
 
 .copy-svg {
   @apply w-full aspect-square text-white opacity-70 hover:opacity-90;
+}
+
+/* Link styles within article paragraphs */
+article p a,
+article li a {
+  @apply relative bg-none font-extrabold text-blue-500 dark:text-blue-400 underline decoration-1 decoration-dashed underline-offset-4;
+
+  &:hover,
+  &:active {
+    @apply decoration-transparent text-blue-600 dark:text-blue-300;
+  }
+}
+
+article h2 a {
+  @apply relative bg-none font-extrabold text-blue-400 no-underline;
+
+  &:hover,
+  &:active {
+    @apply decoration-transparent;
+  }
+}
+
+/* Link styles within unordered lists in articles */
+article ul li a {
+  @apply relative bg-none font-extrabold text-sm text-blue-400 no-underline;
+
+  &:hover,
+  &:active {
+    @apply decoration-transparent;
+  }
+}
+
+article :where(code):not(:where(pre code)) {
+  /* code blocks within articles and not inside pre */
+  font-weight: 600;
+  font-size: .855em;
+  overflow: hidden;
+  border-radius: .375rem;
+  padding: .125rem .25rem;
+  font-family: monospace;
 }
