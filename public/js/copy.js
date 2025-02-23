@@ -43,3 +43,12 @@ function copyCode(event) {
 function getChildByTagName(element, tagName) {
 	return Array.from(element.children).find((child) => child.tagName === tagName);
 }
+
+/**
+<svg width="24" height="24">
+	<use href="/copy.svg#empty"></use>
+</svg>
+<svg width="24" height="24">
+	<use href="/copy.svg#filled"></use>
+</svg>
+ */
