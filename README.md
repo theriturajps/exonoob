@@ -4,7 +4,7 @@ It is primarily Astro, Tailwind and Typescript, with a very small amount of Soli
 
 ## 🚀 Deploy your own
 
-[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/theriturajps/riturajps.in)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/theriturajps/riturajps.in)
+[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/theriturajps/exonoob)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/theriturajps/exonoob)
 
 ## 📋 Features
 

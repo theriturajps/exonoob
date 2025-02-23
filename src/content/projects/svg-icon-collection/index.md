@@ -7,7 +7,7 @@ tags:
 - HTML
 - Javascript
 - CSS
-demoUrl: https://svg.riturajps.in/
+demoUrl: /
 repoUrl: https://github.com/theriturajps/SVG
 ---
 
