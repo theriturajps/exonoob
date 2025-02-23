@@ -172,18 +172,7 @@ article img {
   @apply w-full aspect-square text-white opacity-70 hover:opacity-90;
 }
 
-/* Link styles within article paragraphs */
-article p a,
-article li a {
-  @apply relative bg-none font-extrabold text-blue-500 dark:text-blue-400 underline decoration-1 decoration-dashed underline-offset-4;
-
-  &:hover,
-  &:active {
-    @apply decoration-transparent text-blue-600 dark:text-blue-300;
-  }
-}
-
-article h2 a {
+article a {
   @apply relative bg-none font-extrabold text-blue-400 no-underline;
 
   &:hover,
