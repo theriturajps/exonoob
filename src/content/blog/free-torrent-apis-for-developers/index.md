@@ -35,7 +35,7 @@ Torrent APIs allow developers to:
 
 **Example**:
 
-```
+```shell
 https://torrentapi.org/pubapi_v2.php?mode=search&search_string={query}
 ```
 
@@ -52,7 +52,7 @@ https://torrentapi.org/pubapi_v2.php?mode=search&search_string={query}
 
 **Example**:
 
-```
+```shell
 https://1337x.to/api/v2/torrents/search/{query}/{page}/
 ```
 
@@ -69,7 +69,7 @@ https://1337x.to/api/v2/torrents/search/{query}/{page}/
 
 **Example**:
 
-```
+```shell
 https://apibay.org/q.php?q={query}
 ```
 
@@ -87,7 +87,7 @@ https://apibay.org/q.php?q={query}
 
 **Example**:
 
-```
+```shell
 https://itorrentsearch.vercel.app/api/1337x/avengers/3
 ```
 
@@ -104,7 +104,7 @@ https://itorrentsearch.vercel.app/api/1337x/avengers/3
 
 **Example**:
 
-```
+```shell
 https://yts.mx/api/v2/list_movies.json?query_term={query}
 ```
 
@@ -112,7 +112,7 @@ https://yts.mx/api/v2/list_movies.json?query_term={query}
 
 Here's how to fetch torrent data using JavaScript and the iTorrentSearch API:
 
-```
+```js
 const fetchTorrentData = async (query) => {
 	const response = await fetch(`https://itorrentsearch.vercel.app/api/1337x/${query}/3`);
 	if (!response.ok) {
