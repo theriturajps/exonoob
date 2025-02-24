@@ -209,6 +209,12 @@ pre {
   /* IE & Edge */
 }
 
+pre>code {
+  font-size: .875em;
+  font-family: monospace;
+  overflow: auto;
+}
+
 pre::-webkit-scrollbar {
   display: none;
   /* Chrome, Safari */
