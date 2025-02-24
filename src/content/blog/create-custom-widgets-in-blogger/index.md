@@ -26,16 +26,16 @@ As blogging evolves, standard widgets often don't meet the specific needs of mod
 First, you'll need to navigate to the right place in your Blogger dashboard:
 
 1. Log into your [Blogger dashboard](https://www.blogger.com)
-2. Click on "Theme" in the left sidebar
-3. Select "Customize" to open the theme editor
-4. Click on "Layout" to access the widget management area
+2. Click on "**Theme**" in the left sidebar
+3. Select "**Customize**" to open the theme editor
+4. Click on "**Layout**" to access the widget management area
 
 ### 2. Adding a New Widget
 
 To add a custom widget:
 
-1. Click the "Add a Gadget" button in your desired layout position
-2. Select "HTML/JavaScript" from the widget gallery
+1. Click the "**Add a Gadget**" button in your desired layout position
+2. Select "**HTML/JavaScript**" from the widget gallery
 3. A new window will open where you can enter your custom code
 
 ### 3. Creating Basic Custom Widgets
