@@ -163,7 +163,7 @@ article img {
 }
 
 .copy-btn {
-  @apply w-[20px] fixed;
+  @apply w-[25px] fixed bg-blue-500 text-white p-1 rounded shadow-md transition;
   left: calc(100% - var(--copy-btn-margin));
   transform: translateX(-100%);
 }
