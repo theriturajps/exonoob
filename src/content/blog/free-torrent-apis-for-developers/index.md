@@ -83,12 +83,10 @@ https://apibay.org/q.php?q={query}
 * Pagination for results</li>
 * JSON-based output</li>
 
-**Base URL**: `https://itorrentsearch.vercel.app/api/{keyword}/{query}/{page(optional)}`
-
 **Example**:
 
 ```shell
-https://itorrentsearch.vercel.app/api/1337x/avengers/3
+https://itorrentsearch.vercel.app/api/{keyword}/{query}/{page(optional)}
 ```
 
 ### 5. YTS API
