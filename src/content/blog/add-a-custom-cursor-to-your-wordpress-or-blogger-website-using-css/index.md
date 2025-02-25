@@ -110,4 +110,4 @@ A: Yes! Use a `.gif` file instead of `.png`.
 **Q: How do I revert to the default cursor?**  
 A: Simply remove the CSS code.
 
-Ready to impress your visitors? Add a custom cursor today and watch your site’s personality shine! Got questions? Drop them in the comments below—I’ll help you out! 🚀
+Ready to impress your visitors? Add a custom cursor today and watch your site’s personality shine! Got questions? Drop them in the comments below—I’ll help you out!
