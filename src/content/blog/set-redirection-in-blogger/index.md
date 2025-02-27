@@ -49,7 +49,7 @@ You can set redirection in blogger by entering the old url slug at the top secti
 ![set redirection in blogger](./set-redirection-in-blogger.png)
 
 And that’s it. Your redirection configuration on the blogger website has been completed successfully.
-![redirection configuration on the blogger](./redirection%20configuration.png)
+![redirection configuration on the blogger](./redirection-configuration.png)
 
 
 ### Method 2: Using the HTML Template for Advanced Redirects
