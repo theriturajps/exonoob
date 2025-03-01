@@ -172,6 +172,10 @@ article img {
   @apply w-full aspect-square text-white opacity-70 hover:opacity-90;
 }
 
+article{
+  @apply select-none
+}
+
 article a {
   @apply relative font-extrabold text-blue-400 no-underline pr-5;
 
