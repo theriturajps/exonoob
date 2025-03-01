@@ -12,6 +12,8 @@ You’re sipping a fresh coconut at a breezy co-working space in Canggu, Bali, r
 ## Why SSH Security Matters in Bali’s Coworking Hubs
 Bali’s coworking spots (like [Dojo Bali](https://dojobali.org/) or **Hubud**) are remote worker paradises… until you realize everyone’s sharing the same Wi-Fi. Last month, my friend Raj almost lost client data because he used default SSH settings at a Uluwatu café. Don’t be Raj.
 
+> [How Iceland’s Unique Geothermal Energy Powers the World’s Most Reliable DNS Infrastructure](https://exonoob.in/blog/icelands-unique-geothermal-energy-powers-the-worlds-most-reliable-dns-infrastructure)
+
 ### Top Risks on Bali’s Public Networks:
 1. **"Free Wi-Fi" honeypots** (yes, they exist at tourist hotspots!)
 2. Packet sniffers hiding in busy cafes
