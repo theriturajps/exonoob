@@ -22,7 +22,7 @@ Before starting, ensure you have:
 
 ### 1. Generating SSH Keys
 
-Create unique SSH keys for each Git account using this standardized naming convention: `platformname_organizationname_rsa`. The [SSH key generation process](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) follows these best practices:
+Create unique [SSH keys](https://exonoob.in/blog/set-up-git-and-ssh-keys-for-secure-version-control) for each Git account using this standardized naming convention: `platformname_organizationname_rsa`. The [SSH key generation process](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) follows these best practices:
 
 ```bash
 # For GitHub Personal Account
@@ -161,7 +161,7 @@ git remote set-url origin git@bitbucket-work:organization/repo.git
    - Understand [SSH Config File Syntax](https://linuxize.com/post/using-the-ssh-config-file/)
 
 3. **Security**
-   - Use strong passphrases for SSH keys
+   - Use strong passphrases for [SSH keys](https://exonoob.in/blog/configure-multiple-git-accounts-ssh)
    - Store private keys securely
    - Never share private keys
    - Use [ed25519 keys](https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6da8ce2a8e0) for better security when possible
