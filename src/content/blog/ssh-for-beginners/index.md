@@ -18,6 +18,8 @@ SSH is a cryptographic network protocol that lets you securely access and manage
 - **Flexibility**: Works on Linux, macOS, Windows (via tools like [PuTTY](https://www.putty.org/)), and even mobile.
 - **Automation**: Script tasks like backups or updates without manual logins.
 
+> [How to Use SSH Safely in Bali’s Co-Working Spaces: A Digital Nomad’s Guide](https://exonoob.in/blog/use-ssh-safely-in-balis-coworking-spaces)
+
 ## Setting Up SSH: No Tech Degree Required
 
 ### Step 1: Install SSH
