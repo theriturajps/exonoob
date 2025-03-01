@@ -29,6 +29,8 @@ Users along with search engines automatically redirect through the technique kno
 3. **Meta Refresh Redirect :** Uses HTML meta tags to redirect users after a set time (e.g., 5 seconds).
 4. **JavaScript Redirect :** Relies on JavaScript code to send users to a new page.
 
+> [How to Create Custom Widgets in Blogger: A Complete Guide for 2025](https://exonoob.in/blog/create-custom-widgets-in-blogger)
+
 ## How to Set Up Redirects in Blogger: 2 Simple Methods
 
 - **Method 1:** Using the Blogger Setting

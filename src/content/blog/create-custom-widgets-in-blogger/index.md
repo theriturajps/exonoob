@@ -66,6 +66,8 @@ Here's a simple example of a custom welcome message widget:
 
 One of the most powerful features in Blogger is the ability to create your own widget sections. This gives you complete control over widget placement, quantity, and visibility across different pages of your blog.
 
+> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger)
+
 ### Setting Up Homepage Widget Sections
 
 Here's the code you'll need to add a new widget section to your homepage:
