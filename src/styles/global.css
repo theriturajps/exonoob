@@ -230,14 +230,16 @@ article :where(code):not(:where(pre code)) {
   border-radius: .375rem;
   padding: .125rem .25rem;
   font-family: monospace;
-  user-select: text;
+
+  @apply select-all
 }
 
 pre {
   overflow: auto;
   scrollbar-width: none;
   -ms-overflow-style: none;
-  user-select: text;
+
+  @apply select-all
 }
 
 pre>code {
@@ -245,6 +247,7 @@ pre>code {
   font-family: monospace;
   overflow: auto;
   user-select: text;
+  @apply select-all
 }
 
 pre::-webkit-scrollbar {
