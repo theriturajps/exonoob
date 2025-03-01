@@ -6,7 +6,7 @@ draft: false
 tags:
 - DNS
 - Vercel
-- Domains
+- Domain
 ---
 
 Are you looking to add a professional touch to your Vercel - hosted project with a custom domain? 
