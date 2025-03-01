@@ -172,13 +172,12 @@ article img {
   @apply w-full aspect-square text-white opacity-70 hover:opacity-90;
 }
 
-/* Base article styles */
 article {
   @apply select-none;
 
   /* Links - consolidated to avoid repetition */
   a:not(.no-icon) {
-    @apply relative font-semibold text-blue-600 no-underline pr-4 transition-all;
+    @apply relative font-semibold text-blue-600 no-underline pr-4 transition-all inline-flex items-center;
 
     &:hover {
       @apply text-blue-700 underline;
@@ -186,7 +185,7 @@ article {
 
     &::after {
       content: "☍";
-      @apply absolute text-[0.65em] -top-[0.1em] right-0 opacity-100 transition-opacity;
+      @apply text-[0.65em] opacity-100 transition-opacity ml-1;
       line-height: 1;
       font-family: system-ui, sans-serif;
     }
@@ -203,14 +202,14 @@ article {
 
   /* Code blocks in pre elements */
   pre {
-    @apply p-4 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-auto [scrollbar-width:none] select-all;
+    @apply p-3 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-auto [scrollbar-width:none] select-all text-xs leading-snug;
 
     &::-webkit-scrollbar {
       @apply hidden;
     }
 
     code {
-      @apply block p-0 bg-transparent border-none text-sm/loose;
+      @apply block p-0 bg-transparent border-none;
       white-space: pre-wrap;
     }
   }
