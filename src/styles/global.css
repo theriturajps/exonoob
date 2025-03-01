@@ -172,69 +172,51 @@ article img {
   @apply w-full aspect-square text-white opacity-70 hover:opacity-90;
 }
 
-article{
-  @apply select-none
-}
+/* Base article styles */
+article {
+  @apply select-none;
 
-article a {
-  @apply relative font-extrabold text-blue-400 no-underline pr-5;
+  /* Links - consolidated to avoid repetition */
+  a:not(.no-icon) {
+    @apply relative font-semibold text-blue-600 no-underline pr-5 transition-all;
 
-  &:hover,
-  &:active {
-    @apply decoration-transparent;
+    &:hover {
+      @apply text-blue-700 underline;
+    }
+
+    &::after {
+      content: "↗";
+      @apply absolute text-[0.65em] -top-[0.1em] right-0 opacity-80 transition-opacity;
+      line-height: 1;
+      font-family: system-ui, sans-serif;
+    }
+
+    &:hover::after {
+      @apply opacity-100;
+    }
   }
 
-  &::after {
-    content: "↗";
-    @apply absolute text-[0.6em] -top-[0.25em] right-1;
-    line-height: 1;
+  /* Inline code blocks */
+  code:not(pre code) {
+    @apply font-mono font-semibold text-sm bg-gray-100/50 dark:bg-gray-800/50 rounded px-1.5 py-0.5 border border-gray-200 dark:border-gray-700 select-all;
+  }
+
+  /* Code blocks in pre elements */
+  pre {
+    @apply p-4 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-auto [scrollbar-width:none] select-all;
+
+    &::-webkit-scrollbar {
+      @apply hidden;
+    }
+
+    code {
+      @apply block p-0 bg-transparent border-none text-sm/loose;
+      white-space: pre-wrap;
+    }
   }
 }
 
-/* Link styles within unordered lists in articles */
+/* Specific list link adjustments */
 article ul li a {
-  @apply relative bg-none font-extrabold text-sm text-blue-400 no-underline;
-
-  &:hover,
-  &:active {
-    @apply decoration-transparent;
-  }
-
-  &::after {
-    content: "↗";
-    @apply absolute text-[0.6em] -top-[0.25em] right-1;
-    line-height: 1;
-  }
-}
-
-article :where(code):not(:where(pre code)) {
-  /* code blocks within articles and not inside pre */
-  font-weight: 600;
-  font-size: .855em;
-  overflow: hidden;
-  border-radius: .375rem;
-  padding: .125rem .25rem;
-  font-family: monospace;
-
-  @apply select-all
-}
-
-pre {
-  overflow: auto;
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-
-  @apply select-all
-}
-
-pre>code {
-  font-size: .875em;
-  font-family: monospace;
-  overflow: auto;
-  user-select: text;
-  @apply select-all
-}
-
-pre::-webkit-scrollbar {
-  display: none;
+  @apply text-sm;
 }
