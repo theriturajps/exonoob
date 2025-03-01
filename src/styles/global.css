@@ -175,11 +175,6 @@ article img {
 article {
   @apply select-none;
 
-  /* Add border radius to text selection */
-  &::selection {
-    @apply bg-blue-600/10 rounded-md;
-  }
-
   /* Links - icon removed */
   a {
     @apply font-semibold text-blue-600 no-underline transition-all inline-flex items-center;
