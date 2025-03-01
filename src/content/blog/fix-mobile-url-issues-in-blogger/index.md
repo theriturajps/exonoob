@@ -147,6 +147,8 @@ export default worker;
 
 6. Click on Save and Deploy.
 
+> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger)
+
 ### Routes Setup
 
 Alright, now that we've got our Worker set up, we need to tell Cloudflare which URLs it should keep an eye on. It's like giving our Worker its territory to patrol! Here's how:

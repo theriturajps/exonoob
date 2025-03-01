@@ -33,6 +33,8 @@ First of all, let me mention that here is some pros to remove the date from the 
 
 Apart from profit, you will have the privilege of extracting the date from the blogger URL.
 
+> [How to Add No Internet Connection Pop-up and Toast Notification to Blogger](https://exonoob.in/blog/no-internet-connection-pop-up-in-blogger)
+
 ## How to Remove Month and Year from Blogger posts parmalink url?
 
 The process itself is not that complicated and if followed step-by-step it will take just a few minutes.
