@@ -179,6 +179,27 @@ article a {
   &:active {
     @apply decoration-transparent;
   }
+
+  &::before {
+    content: "🔗";
+    margin-right: 0.25rem;
+  }
+
+  &.anchor {
+    @apply absolute -left-8 opacity-0 transition-opacity duration-300 ease-in-out;
+
+    &:hover,
+    &:focus,
+    &:focus-visible {
+      @apply opacity-100 outline-none;
+    }
+
+    &::before,
+    &::after {
+      content: "🔗";
+      margin-left: 0.25rem;
+    }
+  }
 }
 
 /* Link styles within unordered lists in articles */
@@ -188,6 +209,15 @@ article ul li a {
   &:hover,
   &:active {
     @apply decoration-transparent;
+  }
+
+  &::before {
+    content: "🔗";
+    margin-right: 0.25rem;
+  }
+
+  &::after {
+    content: "";
   }
 }
 
@@ -199,40 +229,23 @@ article :where(code):not(:where(pre code)) {
   border-radius: .375rem;
   padding: .125rem .25rem;
   font-family: monospace;
+  user-select: text;
 }
 
 pre {
   overflow: auto;
   scrollbar-width: none;
-  /* Firefox */
   -ms-overflow-style: none;
-  /* IE & Edge */
+  user-select: text;
 }
 
 pre>code {
   font-size: .875em;
   font-family: monospace;
   overflow: auto;
+  user-select: text;
 }
 
 pre::-webkit-scrollbar {
   display: none;
-  /* Chrome, Safari */
-}
-
-/* Disable text selection globally */
-:not(pre):not(code) {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
-/* Allow selection in code blocks */
-pre,
-code {
-  -webkit-user-select: auto;
-  -moz-user-select: auto;
-  -ms-user-select: auto;
-  user-select: auto;
 }
