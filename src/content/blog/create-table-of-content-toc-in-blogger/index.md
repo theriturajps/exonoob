@@ -45,13 +45,13 @@ From **Blogger Dashboard** click on **Theme** -> **Edit HTML** then **Theme Edit
 Search the code `</head>` and paste the following Javascript Codes just above to it.
 
 ```javascript
-<script type='text/javascript'>              
-//&lt;![CDATA[
+<script type='text/javascript'>
+//<![CDATA[
 function mbtTOC() {var mbtTOC=i=headlength=gethead=0;           
-headlength = document.getElementById("post-toc").getElementsByTagName("h2").length;for (i = 0; i &lt; headlength; i++)           
-{gethead = document.getElementById("post-toc").getElementsByTagName("h2")[i].textContent;document.getElementById("post-toc").getElementsByTagName("h2")[i].setAttribute("id", "point"+i);mbtTOC = "&lt;li&gt;&lt;a href='#point"+i+"'&gt;"+gethead+"&lt;/a&gt;&lt;/li&gt;";document.getElementById("mbtTOC").innerHTML += mbtTOC;}}function mbtToggle() {var mbt = document.getElementById('mbtTOC');if (mbt .style.display === 'none') {mbt .style.display = 'block';} else {mbt .style.display = 'none';}}           
-//]]&gt;              
-&lt;/script&gt;
+headlength = document.getElementById("post-toc").getElementsByTagName("h2").length;for (i = 0; i < headlength; i++)           
+{gethead = document.getElementById("post-toc").getElementsByTagName("h2")[i].textContent;document.getElementById("post-toc").getElementsByTagName("h2")[i].setAttribute("id", "point"+i);mbtTOC = "<li><a href='#point"+i+"'>"+gethead+"</a></li>";document.getElementById("mbtTOC").innerHTML += mbtTOC;}}function mbtToggle() {var mbt = document.getElementById('mbtTOC');if (mbt .style.display === 'none') {mbt .style.display = 'block';} else {mbt .style.display = 'none';}}           
+//]]>        
+</script>
 ```
 
 ### Step 4:- Search for `]]&gt;&lt;/b:skin&gt;` or `/*]]&gt;*/&lt;/style&gt;`.
@@ -59,7 +59,14 @@ headlength = document.getElementById("post-toc").getElementsByTagName("h2").leng
 Now search the code `]]&gt;&lt;/b:skin&gt;` or `/*]]&gt;*/&lt;/style&gt;` and paste the following CSS Codes just above to it.
 
 ```css
-.mbtTOC{border:5px solid #f7f0b8;box-shadow:1px 1px 0 #EDE396;background-color:#FFFFE0;color:#707037;line-height:1.4em;margin:30px auto;padding:20px 30px 20px 10px;font-family:oswald,arial;display:block;width:70%}.mbtTOC ol,.mbtTOC ul{margin:0;padding:0}.mbtTOC ul{list-style:none}.mbtTOC ol li,.mbtTOC ul li{padding:15px 0 0;margin:0 0 0 30px;font-size:15px}.mbtTOC a{color:#0080ff;text-decoration:none}.mbtTOC a:hover{text-decoration:underline}.mbtTOC button{background:#FFFFE0;font-family:oswald,arial;font-size:20px;position:relative;outline:none;cursor:pointer;border:none;color:#707037;padding:0 0 0 15px}.mbtTOC button:after{content:"\f0dc";font-family:FontAwesome;position:relative;left:10px;font-size:20px}
+.mbtTOC{border:5px solid #f7f0b8;box-shadow:1px 1px 0 #EDE396;background-color:#FFFFE0;color:#707037;line-height:1.4em;margin:30px auto;padding:20px 30px 20px 10px;font-family:oswald,arial;display:block;width:70%}
+.mbtTOC ol,.mbtTOC ul{margin:0;padding:0}
+.mbtTOC ul{list-style:none}
+.mbtTOC ol li,.mbtTOC ul li{padding:15px 0 0;margin:0 0 0 30px;font-size:15px}
+.mbtTOC a{color:#0080ff;text-decoration:none}
+.mbtTOC a:hover{text-decoration:underline}
+.mbtTOC button{background:#FFFFE0;font-family:oswald,arial;font-size:20px;position:relative;outline:none;cursor:pointer;border:none;color:#707037;padding:0 0 0 15px}
+.mbtTOC button:after{content:"\f0dc";font-family:FontAwesome;position:relative;left:10px;font-size:20px}
 ```
 
 ### Step 5:- Search for `&lt;data:post.body/&gt;`.
@@ -67,7 +74,7 @@ Now search the code `]]&gt;&lt;/b:skin&gt;` or `/*]]&gt;*/&lt;/style&gt;` and pa
 At Last Search for `&lt;data:post.body/&gt;` and replace this with the below code.
 
 ```html
-&lt;div id="post-toc"&gt;&lt;data:post.body/&gt;&lt;/div&gt;
+<div id="post-toc"><data:post.body/></div>
 ```
 
 ### Step 6:- Save the Changes
@@ -79,11 +86,11 @@ To **add a Table of Contents (TOC)** to your blog post or article, switch it to 
 Now After the first paragraph or before the first heading, paste the below TOC code. This will generate a clickable TOC based on your headings or Placing it just before the `&lt;h2&gt;` tag.
 
 ```html
-&lt;div class="mbtTOC"&gt;
-    &lt;button onclick="mbtToggle()"&gt;Contents&lt;/button&gt;
-    &lt;ol id="mbtTOC"&gt;&lt;/ol&gt;
-&lt;/div&gt;
-&lt;script&gt;mbtTOC();&lt;/script&gt;
+<div class="mbtTOC">
+    <button onclick="mbtToggle()">Contents</button>
+    <ol id="mbtTOC"></ol>
+</div>
+<script>mbtTOC();</script>
 ```
 
 ## Conclusion
