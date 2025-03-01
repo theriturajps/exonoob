@@ -22,6 +22,8 @@ A **Table of Contents** is also as simple as what the term suggests, it is a lis
 
 When you run an article, blog, website, social page, or blog post, what do you think would happen if you offered your readers their own tour guide to your content? That is the purpose of any ToC we create. It helps them to quickly move to areas which they deem relevant; hence, making your content easily digestible.
 
+> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger)
+
 ## Backing up your current template
 
 Before we go on let's be a little cautious. Go to your [Blogger Dashboard](https://www.blogger.com/?ref=exonoob.in) and find the "**Theme**" tab, choose "**Backup/Restore**" It will be useful to download the current template's copy. You couldn't agree more - It's like planning on having a safety net while dealing with change, something that is always welcome especially when implementing change.
