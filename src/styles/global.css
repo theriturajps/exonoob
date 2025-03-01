@@ -186,12 +186,12 @@ article {
 
   /* Inline code blocks */
   code:not(pre code) {
-    @apply font-mono font-semibold text-xs bg-gray-100/50 dark:bg-gray-800/50 rounded px-1.5 py-0.5 border border-gray-200 dark:border-gray-700 select-all;
+    @apply font-mono font-semibold text-xs bg-gray-100/50 dark:bg-gray-800/50 rounded px-1.5 py-0.5 border border-gray-200 dark:border-gray-700 select-auto;
   }
 
   /* Code blocks in pre elements */
   pre {
-    @apply p-3 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-auto [scrollbar-width:none] select-all text-xs leading-snug;
+    @apply p-3 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-auto [scrollbar-width:none] select-auto text-xs leading-snug;
 
     &::-webkit-scrollbar {
       @apply hidden;
