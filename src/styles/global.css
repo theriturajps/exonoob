@@ -6,6 +6,25 @@
   --copy-btn-margin: 10px;
 }
 
+/* Disable text selection globally */
+:not(pre):not(code):not(pre *) :not(code *) {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Allow selection in code blocks */
+pre,
+code,
+pre *,
+code * {
+  -webkit-user-select: auto;
+  -moz-user-select: auto;
+  -ms-user-select: auto;
+  user-select: auto;
+}
+
 @layer base {
   @font-face {
     font-family: "Atkinson";
