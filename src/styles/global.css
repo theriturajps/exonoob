@@ -221,7 +221,7 @@ pre::-webkit-scrollbar {
 }
 
 /* Disable text selection globally */
-:not(pre):not(code):not(pre *) :not(code *) {
+:not(pre):not(code) {
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -230,9 +230,7 @@ pre::-webkit-scrollbar {
 
 /* Allow selection in code blocks */
 pre,
-code,
-pre *,
-code * {
+code {
   -webkit-user-select: auto;
   -moz-user-select: auto;
   -ms-user-select: auto;
