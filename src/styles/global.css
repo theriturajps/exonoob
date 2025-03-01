@@ -175,9 +175,9 @@ article img {
 article {
   @apply select-none;
 
-  /* Links - consolidated to avoid repetition */
+  /* Links - fixed multi-line symbol positioning */
   a:not(.no-icon) {
-    @apply relative font-semibold text-blue-600 no-underline pr-4 transition-all;
+    @apply relative inline-flex items-baseline font-semibold text-blue-600 no-underline pr-4 transition-all;
 
     &:hover {
       @apply text-blue-700 underline;
@@ -185,14 +185,9 @@ article {
 
     &::after {
       content: "☍";
-      @apply absolute inline-block text-[0.65em] top-[0.1em] right-0.1 opacity-100 transition-opacity;
-      line-height: 1;
+      @apply inline-block ml-0.5 text-[0.65em] leading-none align-baseline;
       font-family: system-ui, sans-serif;
-      margin-left: 0.1rem;
-    }
-
-    &:hover::after {
-      @apply opacity-100;
+      transform: translateY(-0.1em);
     }
   }
 
@@ -201,22 +196,22 @@ article {
     @apply font-mono font-semibold text-xs bg-gray-100/50 dark:bg-gray-800/50 rounded px-1.5 py-0.5 border border-gray-200 dark:border-gray-700 select-all;
   }
 
-  /* Code blocks in pre elements */
+  /* Code blocks in pre elements - fixed sizing */
   pre {
-    @apply p-3 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-auto [scrollbar-width:none] select-all;
+    @apply p-2 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-auto [scrollbar-width:none] select-all text-xs;
 
     &::-webkit-scrollbar {
       @apply hidden;
     }
 
     code {
-      @apply block p-0 bg-transparent border-none text-xs/relaxed;
+      @apply block p-0 bg-transparent border-none leading-snug;
       white-space: pre-wrap;
     }
   }
 }
 
-/* Specific list link adjustments */
+/* List link adjustments */
 article ul li a {
   @apply text-sm;
 }
