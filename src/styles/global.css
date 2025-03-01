@@ -173,16 +173,17 @@ article img {
 }
 
 article a {
-  @apply relative bg-none font-extrabold text-blue-400 no-underline;
+  @apply relative font-extrabold text-blue-400 no-underline pr-5;
 
   &:hover,
   &:active {
     @apply decoration-transparent;
   }
 
-  &::before {
-    content: "🔗";
-    margin-right: 0.25rem;
+  &::after {
+    content: "↗";
+    @apply absolute text-[0.6em] -top-[0.25em] right-1;
+    line-height: 1;
   }
 
   &.anchor {
