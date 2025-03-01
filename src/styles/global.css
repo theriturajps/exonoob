@@ -186,7 +186,7 @@ article {
 
     &::after {
       content: "↗";
-      @apply absolute text-[0.65em] -top-[0.1em] right-0 opacity-80 transition-opacity;
+      @apply absolute text-[0.65em] -top-[0.1em] right-0 opacity-95 transition-opacity;
       line-height: 1;
       font-family: system-ui, sans-serif;
     }
