@@ -30,10 +30,10 @@ Node.js is a powerful runtime environment that allows developers to build scalab
 ## Prerequisites
 Before we dive into the code, make sure you have the following installed on your machine:
 
--   Node.js installed (version 12 or higher)
+-   [Node.js installed](https://nodejs.org/en/download) (version 12 or higher)
 -   A Gmail account
--   Basic understanding of JavaScript and Node.js
--   A text editor (VS Code recommended)
+-   Basic understanding of JavaScript and [Node.js](https://nodejs.org/docs/latest/api/)
+-   A text editor ([VS Code](https://code.visualstudio.com/) recommended)
 
 ## Setting Up the Node.js Project
 
@@ -75,7 +75,7 @@ To send emails using Gmail, you'll need to configure your Gmail account to allow
 This is where many developers get stuck. You'll need to create an App Password for Gmail:
 
 1.  Go to your [Google Account Settings](https://myaccount.google.com/).
-2.  Navigate to "**Security**" > **2-Step Verification**
+2.  Navigate to "**Security**" ➟ **2-Step Verification**
 3.  Scroll down and select "**App passwords**"
 4.  Choose "**Mail**" and "**Other**" from the dropdowns
 5.  Generate the app password and save it securely
