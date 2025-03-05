@@ -38,7 +38,7 @@ Numerous connections, including those with Solana, Opensea, Binance, Coinbase, C
 
 Read the [documentation](https://docs.composio.dev/cryptokit/tools) for each of the Crypto-Kit tools.
 
-> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger)
+> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger/)
 
 ## [Hardhat | The Most Well-Known Ethereum Innovation](https://hardhat.org/)
 
@@ -52,7 +52,7 @@ Constructing on Solana? Anchor has you covered. For Solana, it's similar to Hard
 
 The newest trend in Ethereum development is called Foundry. We're talking about tests that run up to 20 times faster than typical tools thanks to built-in Rust. You can write your tests in Solidity, which is the same language as your contracts, which is amazing. For optimisation, the gas snapshots feature is invaluable.
 
-> [How to Add No Internet Connection Pop-up and Toast Notification to Blogger](https://exonoob.in/blog/no-internet-connection-pop-up-in-blogger)
+> [How to Add No Internet Connection Pop-up and Toast Notification to Blogger](https://exonoob.in/blog/no-internet-connection-pop-up-in-blogger/)
 
 ## [Modern Ethereum Library | Ethers.js](https://ethers.org/)
 
@@ -80,7 +80,7 @@ For Solana, similar to Remix. Programs can be written, built, and launched direc
 
 Do you require an Ethereum blockchain of your own? Ganache is that. It allows you to regulate everything, including block duration and gas constraints, making it ideal for testing. You can test how your code will work with current protocols by using the mainnet forking function.
 
-> [Fix ?m=1 Issue in Blogger URLs with Cloudflare - Best SEO-Friendly Solution](https://exonoob.in/blog/fix-mobile-url-issues-in-blogger)
+> [Fix ?m=1 Issue in Blogger URLs with Cloudflare - Best SEO-Friendly Solution](https://exonoob.in/blog/fix-mobile-url-issues-in-blogger/)
 
 ## [Alchemy | Web3 Infrastructure of Enterprise Grade](https://www.alchemy.com/)
 
@@ -94,7 +94,7 @@ Rapid, dependable RPC access combined with specialised APIs that simplify compli
 
 Before The Graph, it was difficult to query blockchain data. It enables you to use GraphQL to obtain the exact data you require at the appropriate time. No more clumsy REST APIs or intricate indexing solutions. Create your schema, index the information you require, and then start querying.
 
-> [Set Up Git and SSH Keys for Secure Version Control: A Step-by-Step Guide](https://exonoob.in/blog/set-up-git-and-ssh-keys-for-secure-version-control)
+> [Set Up Git and SSH Keys for Secure Version Control: A Step-by-Step Guide](https://exonoob.in/blog/set-up-git-and-ssh-keys-for-secure-version-control/)
 
 ## [Tenderly | Platform for Monitoring Smart Contracts](https://tenderly.co/)
 

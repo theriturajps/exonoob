@@ -16,7 +16,7 @@ Imagine typing a website address and seeing… nothing. That’s what happens wh
 
 Most DNS servers rely on fossil fuels and unstable power grids. But Iceland? They’ve cracked the code using **geothermal energy** – the same volcanic forces that create their famous hot springs.
 
-> [How to Use SSH Safely in Bali’s Co-Working Spaces: A Digital Nomad’s Guide](https://exonoob.in/blog/use-ssh-safely-in-balis-coworking-spaces)
+> [How to Use SSH Safely in Bali’s Co-Working Spaces: A Digital Nomad’s Guide](https://exonoob.in/blog/use-ssh-safely-in-balis-coworking-spaces/)
 
 ### Iceland’s Secret Sauce: Nature-Powered DNS Hosting
 

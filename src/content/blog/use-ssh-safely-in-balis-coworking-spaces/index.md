@@ -12,12 +12,12 @@ You’re sipping a fresh coconut at a breezy co-working space in Canggu, Bali, r
 ## Why SSH Security Matters in Bali’s Coworking Hubs
 Bali’s coworking spots (like [Dojo Bali](https://dojobali.org/) or **Hubud**) are remote worker paradises… until you realize everyone’s sharing the same Wi-Fi. Last month, my friend Raj almost lost client data because he used default SSH settings at a Uluwatu café. Don’t be Raj.
 
-> [How Iceland’s Unique Geothermal Energy Powers the World’s Most Reliable DNS Infrastructure](https://exonoob.in/blog/icelands-unique-geothermal-energy-powers-the-worlds-most-reliable-dns-infrastructure)
+> [How Iceland’s Unique Geothermal Energy Powers the World’s Most Reliable DNS Infrastructure](https://exonoob.in/blog/icelands-unique-geothermal-energy-powers-the-worlds-most-reliable-dns-infrastructure/)
 
 ### Top Risks on Bali’s Public Networks:
 1. **"Free Wi-Fi" honeypots** (yes, they exist at tourist hotspots!)
 2. Packet sniffers hiding in busy cafes
-3. Outdated [SSH configurations](https://exonoob.in/blog/ssh-for-beginners) (guilty until proven secure)
+3. Outdated [SSH configurations](https://exonoob.in/blog/ssh-for-beginners/) (guilty until proven secure)
 
 ## Step-by-Step: Bulletproof SSH Setup for Bali Workations
 
@@ -49,7 +49,7 @@ Host bali-work
   ConnectTimeout 30 # For when Seminyak Wi-Fi acts up
 ```
 
-> [Set Up Git and SSH Keys for Secure Version Control: A Step-by-Step Guide](https://exonoob.in/blog/set-up-git-and-ssh-keys-for-secure-version-control)
+> [Set Up Git and SSH Keys for Secure Version Control: A Step-by-Step Guide](https://exonoob.in/blog/set-up-git-and-ssh-keys-for-secure-version-control/)
 
 ## Real Bali SSH Scenario: Coffee Meets Code
 
@@ -67,7 +67,7 @@ This keeps your connection alive through Bali’s infamous 5pm internet slump.
 3. **CanYouSeeMe.org** - Check if your custom SSH port is open (test from your villa first!)
 
 
-> [How to Configure Multiple Git Accounts with SSH: A Complete Guide for Developers](https://exonoob.in/blog/configure-multiple-git-accounts-ssh)
+> [How to Configure Multiple Git Accounts with SSH: A Complete Guide for Developers](https://exonoob.in/blog/configure-multiple-git-accounts-ssh/)
 
 ## FAQ: SSH in Bali Edition
 

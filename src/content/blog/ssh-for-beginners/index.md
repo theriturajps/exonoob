@@ -18,7 +18,7 @@ SSH is a cryptographic network protocol that lets you securely access and manage
 - **Flexibility**: Works on Linux, macOS, Windows (via tools like [PuTTY](https://www.putty.org/)), and even mobile.
 - **Automation**: Script tasks like backups or updates without manual logins.
 
-> [How to Use SSH Safely in Bali’s Co-Working Spaces: A Digital Nomad’s Guide](https://exonoob.in/blog/use-ssh-safely-in-balis-coworking-spaces)
+> [How to Use SSH Safely in Bali’s Co-Working Spaces: A Digital Nomad’s Guide](https://exonoob.in/blog/use-ssh-safely-in-balis-coworking-spaces/)
 
 ## Setting Up SSH: No Tech Degree Required
 
@@ -39,7 +39,7 @@ Replace `username` with your account name and `remote_server_ip` with the server
 - **Password login**: Enter your server password when prompted.
 - **Key-based login (more secure)**: [Generate an SSH key pair](https://www.ssh.com/academy/ssh/keygen) and upload the public key to your server.
 
-> [Set Up Git and SSH Keys for Secure Version Control: A Step-by-Step Guide](https://exonoob.in/blog/set-up-git-and-ssh-keys-for-secure-version-control)
+> [Set Up Git and SSH Keys for Secure Version Control: A Step-by-Step Guide](https://exonoob.in/blog/set-up-git-and-ssh-keys-for-secure-version-control/)
 
 ## Must-Know SSH Commands (Cheat Sheet)
 
@@ -69,7 +69,7 @@ I learned this the hard way: **default SSH setups are hacker magnets**. Here’s
 - **Is the server online?** Ping it: `ping example.com`.
 - **Firewall blocking port 22?** Check with `ufw status` (Linux).
 
-> [How to Configure Multiple Git Accounts with SSH: A Complete Guide for Developers](https://exonoob.in/blog/configure-multiple-git-accounts-ssh)
+> [How to Configure Multiple Git Accounts with SSH: A Complete Guide for Developers](https://exonoob.in/blog/configure-multiple-git-accounts-ssh/)
 
 ### “Permission Denied (publickey)”
 - **Wrong key permissions?** Run `chmod 600 ~/.ssh/id_rsa`.

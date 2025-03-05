@@ -101,7 +101,7 @@ EMAIL_AUTH_PASS=your-app-password
 
 Add `.env` to your `.gitignore` file to prevent credential exposure.
 
-> [SSH for Beginners: A Step-by-Step Guide to Secure Remote Access](https://exonoob.in/blog/ssh-for-beginners)
+> [SSH for Beginners: A Step-by-Step Guide to Secure Remote Access](https://exonoob.in/blog/ssh-for-beginners/)
 
 ## Sending Your First Email
 

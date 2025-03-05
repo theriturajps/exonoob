@@ -38,7 +38,7 @@ In this comprehensive guide, you'll discover:
 - Custom subdomains (`blog.example.com`)
 - Multiple domains per project
 
-> [How Iceland’s Unique Geothermal Energy Powers the World’s Most Reliable DNS Infrastructure](https://exonoob.in/blog/icelands-unique-geothermal-energy-powers-the-worlds-most-reliable-dns-infrastructure)
+> [How Iceland’s Unique Geothermal Energy Powers the World’s Most Reliable DNS Infrastructure](https://exonoob.in/blog/icelands-unique-geothermal-energy-powers-the-worlds-most-reliable-dns-infrastructure/)
 
 ## Domain Configuration Steps
 

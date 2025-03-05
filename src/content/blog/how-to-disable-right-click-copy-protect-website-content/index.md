@@ -80,7 +80,7 @@ body {
 - Adds friction to potential content scrapers
 - Should be used in conjunction with JavaScript methods
 
-> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger)
+> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger/)
 
 ## Method 3: Granular Element-Level Protection
 

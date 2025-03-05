@@ -147,7 +147,7 @@ export default worker;
 
 6. Click on Save and Deploy.
 
-> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger)
+> [How to Set Up Redirects in Blogger: A Step-by-Step Guide for Beginners](https://exonoob.in/blog/set-redirection-in-blogger/)
 
 ### Routes Setup
 

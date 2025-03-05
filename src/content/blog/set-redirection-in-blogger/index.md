@@ -19,7 +19,7 @@ The how requires an understanding of why redirects matter for Blogger sites. Red
 2. **Improving User Experience:** Users do not appreciate encountering dead ends so performance enhancement is crucial. The navigation tool through redirect links drives users toward suitable content.
 3. **Fixing Broken Links:** Your redirects ensure external sites keeping their link referrals when they use your old URLs.
 
-> [How to Add No Internet Connection Pop-up and Toast Notification to Blogger](https://exonoob.in/blog/no-internet-connection-pop-up-in-blogger)
+> [How to Add No Internet Connection Pop-up and Toast Notification to Blogger](https://exonoob.in/blog/no-internet-connection-pop-up-in-blogger/)
 
 ## What is Redirection?
 Users along with search engines automatically redirect through the technique known as redirection to a different URL. A redirect functions similar to detour signs online since they redirect users to different URLs when important pages move or disappear. The technique serves to maintain SEO performance along with user interface quality and properly addresses website connection failures.
@@ -31,7 +31,7 @@ Users along with search engines automatically redirect through the technique kno
 3. **Meta Refresh Redirect :** Uses HTML meta tags to redirect users after a set time (e.g., 5 seconds).
 4. **JavaScript Redirect :** Relies on JavaScript code to send users to a new page.
 
-> [How to Create Custom Widgets in Blogger: A Complete Guide for 2025](https://exonoob.in/blog/create-custom-widgets-in-blogger)
+> [How to Create Custom Widgets in Blogger: A Complete Guide for 2025](https://exonoob.in/blog/create-custom-widgets-in-blogger/)
 
 ## How to Set Up Redirects in Blogger: 2 Simple Methods
 

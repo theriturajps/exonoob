@@ -97,7 +97,7 @@ You'll get a wall of text like:
 ssh-rsa AAAAB3...there's going to be a lot of random stuff here...== you@email.com
 ```
 
-> [How to Use SSH Safely in Bali’s Co-Working Spaces: A Digital Nomad’s Guide](https://exonoob.in/blog/use-ssh-safely-in-balis-coworking-spaces)
+> [How to Use SSH Safely in Bali’s Co-Working Spaces: A Digital Nomad’s Guide](https://exonoob.in/blog/use-ssh-safely-in-balis-coworking-spaces/)
 
 ### What To Do:
 
