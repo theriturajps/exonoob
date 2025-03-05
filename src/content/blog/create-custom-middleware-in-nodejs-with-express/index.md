@@ -7,7 +7,7 @@ tags:
 - Guide
 ---
 
-Middleware is the backbone of Express.js applications, acting as a bridge between incoming requests and final responses. Whether you're handling authentication, logging, or data validation, custom middleware helps you write cleaner, reusable code. In this guide, you’ll learn how to create your own middleware in Node.js using Express.js—even if you’re a beginner!
+[Middleware](https://expressjs.com/en/guide/using-middleware.html) is the backbone of Express.js applications, acting as a bridge between incoming requests and final responses. Whether you're handling authentication, logging, or data validation, custom middleware helps you write cleaner, reusable code. In this guide, you’ll learn **how to create your own middleware in Node.js using Express.js** — even if you’re a beginner!
 
 ## Table of Contents
 1. [What is Middleware?](#what-is-middleware)
@@ -89,8 +89,6 @@ app.get('/admin', authMiddleware, (req, res) => {
   res.send('Welcome to the admin panel!');
 });
 ```
-
----
 
 ## Practical Examples
 
