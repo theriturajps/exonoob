@@ -66,7 +66,7 @@ The official JavaScript development kit for Solana. It manages everything you ne
 
 Do you want to create safe smart contracts? Your best friend is OpenZeppelin. They have security tools, a Defender suite for managing deployed contracts, and battle-tested implementations of all the main standards. Using code that has been audited numerous times is preferable to starting from scratch.
 
-> [How to Setup a Project and Send Email in Node.js Using Nodemailer & Gmail](https://exonoob.in/blog/setup-project-send-email-in-nodejs-using-nodemailer-and-gmail)
+> [How to Setup a Project and Send Email in Node.js Using Nodemailer & Gmail](https://exonoob.in/blog/setup-project-send-email-in-nodejs-using-nodemailer-and-gmail/)
 
 ## [Browser-Based Solidity IDE | Remix IDE](https://remix.ethereum.org/)
 
