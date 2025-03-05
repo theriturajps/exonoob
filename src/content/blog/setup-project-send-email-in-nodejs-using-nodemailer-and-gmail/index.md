@@ -95,8 +95,8 @@ npm install dotenv
 Create a `.env` file in your project root:
 
 ```
-EMAIL_USER=youremail@gmail.com
-EMAIL_PASS=your-app-password
+EMAIL_AUTH_USER=youremail@gmail.com
+EMAIL_AUTH_PASS=your-app-password
 ```
 
 Add `.env` to your `.gitignore` file to prevent credential exposure.
@@ -112,19 +112,24 @@ const nodemailer = require('nodemailer');
 
 // Create a transporter object using the default SMTP transport
 let transporter = nodemailer.createTransport({
-    service: 'gmail',
-    auth: {
-        user: process.env.EMAIL_USER, // Your Gmail address
-        pass: process.env.EMAIL_PASS   // Your Gmail password or App Password
-    }
+	host: "smtp.gmail.com",
+	port: 465,
+	secure: true,
+	auth: {
+		user: process.env.EMAIL_AUTH_USER,
+		pass: process.env.EMAIL_AUTH_PASS,
+	},
 });
 
 // Email options
 let mailOptions = {
-    from: process.env.EMAIL_USER, // Sender address
+    from: {
+			name: "Contact Manager", // Sender name
+			address: process.env.EMAIL_AUTH_USER, // Sender address
+    },
     to: 'recipient-email@example.com', // List of recipients
     subject: 'Hello from Node.js', // Subject line
-    text: 'This is a test email sent from a Node.js application using Nodemailer.' // Plain text body
+    text: 'This is a test email sent from a Node.js application using Nodemailer by ExoNoob.In.' // Plain text body
 };
 
 // Send email
