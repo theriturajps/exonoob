@@ -72,11 +72,11 @@ To send emails using Gmail, you'll need to configure your Gmail account to allow
 **Note:** If you have 2-Step Verification enabled, you'll need to [create an App Password](#create-an-app-password-for-gmail) instead of using your regular Gmail password.
 
 ### Create an App Password for Gmail
-This is where many developers get stuck. You'll need to create an App Password for Gmail:
+This is where many developers get stuck. You'll need to [create an App Password](https://myaccount.google.com/apppasswords) for Gmail:
 
 1.  Go to your [Google Account Settings](https://myaccount.google.com/).
 2.  Navigate to "**Security**" ➟ **2-Step Verification**
-3.  Scroll down and select "**App passwords**"
+3.  Scroll down and select "**[App passwords](https://myaccount.google.com/apppasswords)**"
 4.  Choose "**Mail**" and "**Other**" from the dropdowns
 5.  Generate the app password and save it securely
 
