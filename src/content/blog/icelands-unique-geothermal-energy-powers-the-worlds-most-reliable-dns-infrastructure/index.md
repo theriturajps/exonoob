@@ -43,6 +43,8 @@ In 2022, Barcelona-based fashion retailer *Luroa* switched to Reykjavik’s [Adv
 4. You want latency under 20ms for EU and North American users.
 5. You’re tired of paying for “99.9% uptime” that feels more like 95%.
 
+> [How to Setup a Project and Send Email in Node.js Using Nodemailer & Gmail](https://exonoob.in/blog/setup-project-send-email-in-nodejs-using-nodemailer-and-gmail)
+
 ### How to Choose an Icelandic DNS Provider
 
 1. **Look for Tier IV Certification** – This guarantees fault-tolerant infrastructure.

@@ -37,6 +37,8 @@ user.email=you@email.com
 1. Yeah, use your actual name - I made the mistake of using "CodingNinja" once and my team still makes fun of me
 2. The email should match your GitHub/GitLab - learned this one the hard way when none of my commits were linking properly
 
+> [How to Setup a Project and Send Email in Node.js Using Nodemailer & Gmail](https://exonoob.in/blog/setup-project-send-email-in-nodejs-using-nodemailer-and-gmail)
+
 ## Now the SSH Key Part
 
 Okay, this is where people usually get stuck. SSH keys are actually pretty simple - it's like having a super-secret handshake with your Git server. Here's what you type (I usually keep this command in a note somewhere because who can remember it?):

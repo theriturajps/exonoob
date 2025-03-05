@@ -14,7 +14,7 @@ However, it might be really difficult to find excellent web3 dev tools to study 
 To help you create amazing projects, I have compiled a collection of web3 developer tools.
 
 ## Table of Contents
-- [Essential Web3 Development Tools Guide](#essential-web3-development-tools-guide)
+  - [Essential Web3 Development Tools Guide](#essential-web3-development-tools-guide)
   - [Composio Crypto-Kit](#composio-crypto-kit)
   - [Hardhat | The Most Well-Known Ethereum Innovation](#hardhat--the-most-well-known-ethereum-innovation)
   - [Anchor | The Standard Framework for Solana Development](#anchor--the-standard-framework-for-solana-development)
@@ -65,6 +65,8 @@ The official JavaScript development kit for Solana. It manages everything you ne
 ## [Battle-Tested Smart Contract Library | OpenZeppelin](https://www.openzeppelin.com/)
 
 Do you want to create safe smart contracts? Your best friend is OpenZeppelin. They have security tools, a Defender suite for managing deployed contracts, and battle-tested implementations of all the main standards. Using code that has been audited numerous times is preferable to starting from scratch.
+
+> [How to Setup a Project and Send Email in Node.js Using Nodemailer & Gmail](https://exonoob.in/blog/setup-project-send-email-in-nodejs-using-nodemailer-and-gmail)
 
 ## [Browser-Based Solidity IDE | Remix IDE](https://remix.ethereum.org/)
 
