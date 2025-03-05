@@ -11,7 +11,7 @@ If you’ve wandered through Portland’s Pearl District or sipped coffee at a l
 
 ## The Rise of Node.js in Portland’s Tech Scene
 
-Portland’s tech community has always thrived on collaboration over competition. From hackathons at **Puppet Labs** to meetups hosted by the **Portland JavaScript Admirers**, the city fosters innovation. Node.js—a runtime built on Chrome’s V8 engine—fits perfectly here. Its non-blocking, event-driven architecture aligns with Portland’s preference for efficient, scalable solutions.
+Portland’s tech community has always thrived on collaboration over competition. From hackathons at **Puppet Labs** to meetups hosted by the **Portland JavaScript Admirers**, the city fosters innovation. [Node.js](https://exonoob.in/blog/setup-project-send-email-in-nodejs-using-nodemailer-and-gmail/) — a runtime built on [Chrome’s V8 engine](https://chromium.googlesource.com/v8/v8.git) — fits perfectly here. Its non-blocking, event-driven architecture aligns with Portland’s preference for efficient, scalable solutions.
 
 **Local Success Story:**  
 Take *UrbanFern*, a Portland-based startup creating IoT solutions for urban gardening. By switching to Node.js, they reduced API response times by 40% and scaled their user base to 50,000+ without hiring additional backend developers. “Node.js let us iterate fast with a small team,” says CTO Maria Gonzalez. “That’s crucial in Portland’s tight-knit startup ecosystem.”
