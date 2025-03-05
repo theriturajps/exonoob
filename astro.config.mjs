@@ -7,7 +7,7 @@ import solidJs from "@astrojs/solid-js"
 // https://astro.build/config
 export default defineConfig({
   site: "https://exonoob.in/",
-  trailingSlash: false,
+  trailingSlash: "always",
   integrations: [
     mdx(),
     solidJs(),
