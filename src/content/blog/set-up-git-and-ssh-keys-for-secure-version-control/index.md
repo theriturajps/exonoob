@@ -112,6 +112,8 @@ ssh-rsa AAAAB3...there's going to be a lot of random stuff here...== you@email.c
 2. **Passphrase Tips:** Use something you'll actually remember - there's a sweet spot between "password123" and "quantum cryptography"
 3. **New Keys:** I usually make new ones when switching jobs or if I get that paranoid feeling that I might have leaked something
 
+> [How AI Tools Like GitHub Copilot Are Reshaping Software Development in 2025](https://exonoob.in/blog/how-ai-tools-like-github-copilot-reshaping-software-development-2025/)
+
 ### When Things Go Wrong (Because They Will)
 
 1. **Permission Errors:** Run `chmod 700 ~/.ssh` and `chmod 600` on your keys. Had this issue on every single Linux install I've ever done

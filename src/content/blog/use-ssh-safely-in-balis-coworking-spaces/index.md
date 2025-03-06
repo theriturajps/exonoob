@@ -38,6 +38,8 @@ ssh-keygen -t ed25519 -C "balicoworking@example.com"
 
 I keep my private key on a **physical USB** (bought at Bali’s Bintang Supermarket) as backup. No cloud storage for this!
 
+> [How AI Tools Like GitHub Copilot Are Reshaping Software Development in 2025](https://exonoob.in/blog/how-ai-tools-like-github-copilot-reshaping-software-development-2025/)
+
 ### 3. Bali-Proof Your SSH Config
 Create a `~/.ssh/config` file with these rules:
 ```
