@@ -57,8 +57,7 @@ This is the elephant in the room. While AI automates tasks, it’s **creating ne
 - Supports 20+ languages.  
 - Works offline for privacy-focused teams.
 
-![GitHub Copilot in action](https://images.unsplash.com/photo-1614332287897-cdc855fa0cdc?auto=format&fit=crop&w=1200&q=80)  
-*Image: GitHub Copilot suggesting code in an IDE.*
+![GitHub Copilot in action](https://github.blog/wp-content/uploads/2024/03/github_copilot_header.png)
 
 > [How to Configure Multiple Git Accounts with SSH](https://exonoob.in/blog/configure-multiple-git-accounts-ssh/)
 
