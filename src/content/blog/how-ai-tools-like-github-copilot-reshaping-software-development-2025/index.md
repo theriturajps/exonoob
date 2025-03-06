@@ -10,6 +10,8 @@ tags:
 
 Artificial intelligence isn’t just a buzzword anymore — it’s rewriting the rules of software development. By 2025, tools like **GitHub Copilot** are expected to become as essential as a keyboard for developers. But what does this mean for coders, teams, and the future of tech careers? Let’s dive in.
 
+![GitHub Copilot in action](https://github.blog/wp-content/uploads/2024/03/github_copilot_header.png)
+
 ## The Rise of AI in Software Development: Beyond Hype
 
 Remember the days when writing code meant hours of debugging and repetitive tasks? AI is changing that. Today, **AI-powered tools automate routine work**, from generating boilerplate code to spotting bugs before they crash your program. 
@@ -56,8 +58,6 @@ This is the elephant in the room. While AI automates tasks, it’s **creating ne
 ### 3. **Tabnine**  
 - Supports 20+ languages.  
 - Works offline for privacy-focused teams.
-
-![GitHub Copilot in action](https://github.blog/wp-content/uploads/2024/03/github_copilot_header.png)
 
 > [How to Configure Multiple Git Accounts with SSH](https://exonoob.in/blog/configure-multiple-git-accounts-ssh/)
 
