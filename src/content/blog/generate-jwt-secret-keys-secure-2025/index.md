@@ -107,6 +107,8 @@ secret_key = get_random_secret_key()
 ## Bonus: Online Generators (Use with Caution)  
 Tools like [RandomKeygen](https://randomkeygen.com/) provide quick keys, but **avoid them for production** due to potential third-party risks.
 
+> [Build a Professional Morse Code API Using Express.js](https://exonoob.in/blog/build-morse-code-api-expressjs-tutorial/)
+
 ## Best Practices for JWT Secret Keys  
 1. **Key Length:** Use at least 256-bit (32-byte) keys.  
 2. **Entropy Sources:** Rely on cryptographically secure libraries.  
