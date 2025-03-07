@@ -60,6 +60,8 @@ app.post('/login', (req, res) => {
 - Scaling challenges
 - CSRF protection required
 
+> [Build a Self-Destructing Message App with Express.js & MongoDB](https://exonoob.in/blog/self-destructing-message-app-with-expressjs-and-mongodb/)
+
 ## 2. JWT Authentication Explained
 
 ### How It Works
