@@ -134,5 +134,5 @@ You’ve built a self-destructing message app that combines Express.js for backe
 
 **Next Steps**:
 - Add user [authentication](https://github.com/expressjs/express/tree/master/examples/auth) with Passport.js
-- Implement end-to-end encryption using crypto
+- Implement end-to-end encryption using [crypto](https://www.npmjs.com/package/crypto-js)
 - Extend expiration time options (e.g., 5 minutes, 1 hour)
