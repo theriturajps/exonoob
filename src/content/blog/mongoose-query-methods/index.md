@@ -49,7 +49,7 @@ const deletedItem = await Product.findByIdAndDelete(productId);
 ```javascript
 const removedUser = await User.findByIdAndRemove(userId);
 ```
-**Note**: Prefer findByIdAndDelete for new projects.
+**Note**: Prefer `findByIdAndDelete` for new projects.
 
 ## 7. findByIdAndUpdate()
 **Update document** by ID with options.
@@ -67,7 +67,7 @@ const updatedPost = await BlogPost.findByIdAndUpdate(
 ```javascript
 const admin = await User.findOne({ role: 'admin' });
 ```
-**Use case**: Unique field lookups (email, username).
+**Use case**: Unique field lookups (`email`, `username`).
 
 ## 9. findOneAndDelete()
 **Find and delete** first match.
@@ -86,7 +86,7 @@ const replacedDoc = await Profile.findOneAndReplace(
   newProfileData
 );
 ```
-**Warning**: Replaces all fields except _id.
+**Warning**: Replaces all fields except `_id`.
 
 ## 11. findOneAndUpdate()
 **Update specific fields** in first match.
@@ -117,7 +117,7 @@ await User.updateMany(
   { $set: { status: 'inactive' } }
 );
 ```
-**Caution**: Always test with find() first.
+**Caution**: Always test with `find()` first.
 
 ## 14. updateOne()
 **Update first matching document**.
@@ -133,5 +133,5 @@ await Post.updateOne(
 1. **Always validate input** before database operations
 2. **Use transactions** for critical operations
 3. **Index frequently queried fields**
-4. **Handle errors** with try/catch blocks
+4. **Handle errors** with `try/catch` blocks
 5. **Sanitize user input** to prevent NoSQL injection
