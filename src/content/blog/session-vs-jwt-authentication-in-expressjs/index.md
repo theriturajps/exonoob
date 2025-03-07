@@ -1,7 +1,7 @@
 ---
 title: "Session vs JWT Authentication in Express.js: Which One to Use?"
 summary: "Step-by-step comparison of session and JWT authentication in Express.js. Learn which method suits your app with practical implementation examples."
-date: "March 05 2025"
+date: "March 07 2025"
 draft: false
 tags:
 - Guide
