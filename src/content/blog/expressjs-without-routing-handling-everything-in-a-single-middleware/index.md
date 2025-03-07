@@ -33,6 +33,8 @@ app.use((req, res, next) => {
 });
 ```
 
+> [Top 10+ Secure Ways to Generate JWT Secret Keys in 2025](https://exonoob.in/blog/generate-jwt-secret-keys-secure-2025/)
+
 ## When Should You Use This Approach?
 
 - Rapid prototyping for hackathons
