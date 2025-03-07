@@ -54,6 +54,6 @@ A: Yes—shared VPN IPs are often abused. Use a reputable provider.
 
 Regularly checking your IP’s status saves you from lost revenue and trust. **John Carter**, a cybersecurity specialist we interviewed, says:  
 
-> "Most blacklistings stem from overlooked vulnerabilities. Automated tools catch issues early."  
+> Most blacklistings stem from overlooked vulnerabilities. Automated tools catch issues early.
 
 For deeper insights, explore [Google’s Security Guidelines](https://safety.google/security/security-tips/).  
