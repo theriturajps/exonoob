@@ -192,6 +192,10 @@ article {
   /* Code blocks in pre elements */
   pre {
     @apply p-3 rounded-lg bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 overflow-auto [scrollbar-width:none] select-text text-xs leading-snug;
+    white-space: pre;
+    /* Ensures no wrapping */
+    word-wrap: normal;
+    /* Prevents word breaking */
 
     &::-webkit-scrollbar {
       @apply hidden;
@@ -199,7 +203,8 @@ article {
 
     code {
       @apply block p-0 bg-transparent border-none;
-      white-space: pre-wrap;
+      white-space: pre;
+      /* Prevents wrapping inside <code> */
     }
   }
 }
