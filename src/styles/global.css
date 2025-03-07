@@ -22,6 +22,17 @@
     font-style: normal;
     font-display: swap;
   }
+
+  @font-face {
+    font-family: 'Samarkan';
+    src: url('/font/samarkan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+}
+
+.samarkan-title {
+  font-family: 'Samarkan', sans-serif;
 }
 
 html {
