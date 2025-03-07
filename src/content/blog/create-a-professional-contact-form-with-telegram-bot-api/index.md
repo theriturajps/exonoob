@@ -18,7 +18,7 @@ tags:
 - **SEO-friendly**: Lightweight code improves page load speed.
 
 ## Step 1: Set Up Your Telegram Bot
-1. Open Telegram and search for **@BotFather** (Telegram’s official bot creator).
+1. Open Telegram and search for [@BotFather](https://t.me/BotFather) (Telegram’s official bot creator).
 2. Type `/newbot` and follow the prompts to name your bot (e.g., `MyPortfolioBot`).
 3. Copy the **API token** provided (looks like `123456:ABCdef1234GHIklmNOPqr56`).
 
