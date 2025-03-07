@@ -5,6 +5,7 @@ date: "March 07 2025"
 draft: false
 tags:
 - Guide
+- APIs
 ---
 
 **Express.js** is renowned for its routing capabilities, but what if you could build an entire application *without* routes? 

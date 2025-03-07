@@ -5,6 +5,7 @@ date: "March 07 2025"
 draft: false
 tags:
 - Guide
+- APIs
 ---
 
 **Ephemeral messaging** is booming, with users prioritizing privacy. In this tutorial, you’ll create a self-destructing message app that automatically deletes messages after they’re viewed. Perfect for developers seeking to enhance their full-stack skills while addressing real-world privacy concerns.

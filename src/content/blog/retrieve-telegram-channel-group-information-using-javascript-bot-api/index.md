@@ -5,6 +5,7 @@ date: "March 07 2025"
 draft: false
 tags:
 - Guide
+- APIs
 ---
 
 **Are you building a Telegram bot and need to fetch channel or group details programmatically?** In this practical guide, you'll learn exactly how to use the Telegram Bot API with JavaScript to retrieve essential information about Telegram groups and channels. This is crucial for bot developers managing communities or automating moderation tasks.

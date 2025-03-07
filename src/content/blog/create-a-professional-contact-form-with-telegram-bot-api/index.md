@@ -5,6 +5,7 @@ date: "March 07 2025"
 draft: false
 tags:
 - Guide
+- APIs
 ---
 
 **Tired of paying for server hosting just to handle contact forms?** In this guide, you’ll learn to create a sleek, spam-resistant contact form that sends messages directly to your Telegram inbox using pure JavaScript — **no backend setup or monthly fees**. Ideal for portfolios, static sites, or small businesses!
