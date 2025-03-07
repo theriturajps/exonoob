@@ -38,6 +38,8 @@ npm install express mongoose dotenv
 └── .env
 ```
 
+> [Express.js Without Routing: Handling Everything in a Single Middleware](https://exonoob.in/blog/expressjs-without-routing-handling-everything-in-a-single-middleware/)
+
 ## Step 2: Configure MongoDB with TTL Indexes
 
 MongoDB’s **TTL (Time-To-Live)** feature automatically deletes documents after a set time.  
