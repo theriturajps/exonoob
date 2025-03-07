@@ -45,6 +45,8 @@ Contribute to Portland-born projects like **PDX Transit API** (built on Node.js)
 ### 4. Attend Node.js Events  
 Mark your calendar for **NodePDX**, an annual conference featuring talks from Netflix and New Relic engineers who started their careers in Portland.
 
+> [Fetch Telegram Channel/Group Data via Bot API in JavaScript](https://exonoob.in/blog/retrieve-telegram-channel-group-information-using-javascript-bot-api/)
+
 ## Challenges (and Solutions) for Portland Developers
 
 **Rainy Day Debugging**  

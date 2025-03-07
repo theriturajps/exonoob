@@ -152,6 +152,8 @@ node index.js
 
 If everything is set up correctly, you should see a message in the console indicating that the email was sent successfully and you should receive an email in the recipient's inbox.
 
+> [Fetch Telegram Channel/Group Data via Bot API in JavaScript](https://exonoob.in/blog/retrieve-telegram-channel-group-information-using-javascript-bot-api/)
+
 ## Common Challenges and Solutions
 
 ### 1. Authentication Errors
