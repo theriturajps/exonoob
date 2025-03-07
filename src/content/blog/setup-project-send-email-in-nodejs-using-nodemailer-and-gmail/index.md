@@ -35,6 +35,8 @@ Before we dive into the code, make sure you have the following installed on your
 -   Basic understanding of JavaScript and [Node.js](https://nodejs.org/docs/latest/api/)
 -   A text editor ([VS Code](https://code.visualstudio.com/) recommended)
 
+> [Session vs JWT Authentication in Express.js](https://exonoob.in/blog/session-vs-jwt-authentication-in-expressjs/)
+
 ## Setting Up the Node.js Project
 
 First, let's create a new directory for our project and initialize it with npm.
