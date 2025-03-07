@@ -5,6 +5,7 @@ date: "March 07 2025"
 draft: false
 tags:
 - Guide
+- APIs
 ---
 
 **Morse code**, the classic communication system invented in the 1830s, is making a comeback in modern tech projects. In this hands-on tutorial, you'll learn to build a **professional REST [API](https://exonoob.in/blog/free-torrent-apis-for-developers/)** that converts text to Morse code using **Express.js**. This project is perfect for developers looking to enhance their backend skills while creating something uniquely practical.
