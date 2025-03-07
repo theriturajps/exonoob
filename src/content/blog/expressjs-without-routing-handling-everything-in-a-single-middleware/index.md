@@ -20,7 +20,7 @@ In this guide, you'll learn how to streamline [Express.js](https://expressjs.com
    Process [authentication](https://exonoob.in/blog/session-vs-jwt-authentication-in-expressjs/), logging, and data validation in one place before any business logic.
 
 3. **Dynamic Response Flexibility**  
-   Create custom path-matching logic without being constrained by Express's default routing system.
+   Create custom path-matching logic without being constrained by Express's default [routing](https://expressjs.com/en/guide/routing.html) system.
 
 ```javascript
 // Single middleware example

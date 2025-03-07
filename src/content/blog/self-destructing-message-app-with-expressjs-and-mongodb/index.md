@@ -11,7 +11,7 @@ tags:
 
 ## Why Build a Self-Destructing Message App?
 - **Privacy Demand**: Users want control over sensitive data.
-- **Skill Boost**: Master Express.js routing, MongoDB TTL indexes, and frontend integration.
+- **Skill Boost**: Master [Express.js routing](https://expressjs.com/en/guide/routing.html), [MongoDB TTL indexes](https://www.mongodb.com/docs/manual/core/index-ttl/), and frontend integration.
 - **Portfolio Potential**: Stand out with a unique project that showcases security awareness.
 
 ## Prerequisites
