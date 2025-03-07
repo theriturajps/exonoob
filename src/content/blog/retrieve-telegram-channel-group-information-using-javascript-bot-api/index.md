@@ -9,6 +9,8 @@ tags:
 
 **Are you building a Telegram bot and need to fetch channel or group details programmatically?** In this practical guide, you'll learn exactly how to use the Telegram Bot API with JavaScript to retrieve essential information about Telegram groups and channels. This is crucial for bot developers managing communities or automating moderation tasks.
 
+![Telegram](./telegram.webp)
+
 ## Why Retrieve Telegram Channel/Group Info?
 Telegram bots can automate community management, analytics tracking, or content moderation. By fetching details like member counts, descriptions, or permissions, you can:
 - Monitor group growth
