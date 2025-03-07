@@ -81,6 +81,8 @@ getChatInfo();
 }
 ```
 
+> [Create a Professional Contact Form with Telegram Bot API](https://exonoob.in/blog/create-a-professional-contact-form-with-telegram-bot-api/)
+
 ## Step 3: Handling Common Use Cases
 
 ### Real-World Example: Check Group Membership

@@ -17,6 +17,8 @@ tags:
 - **Mobile-friendly**: Receive messages instantly on your phone.
 - **SEO-friendly**: Lightweight code improves page load speed.
 
+> [Fetch Telegram Channel/Group Data via Bot API in JavaScript](https://exonoob.in/blog/retrieve-telegram-channel-group-information-using-javascript-bot-api/)
+
 ## Step 1: Set Up Your Telegram Bot
 1. Open Telegram and search for [@BotFather](https://t.me/BotFather) (Telegram’s official bot creator).
 2. Type `/newbot` and follow the prompts to name your bot (e.g., `MyPortfolioBot`).

@@ -90,6 +90,8 @@ Blockchain infrastructure is advanced by alchemy. You receive powerful APIs, com
 
 Rapid, dependable RPC access combined with specialised APIs that simplify complicated tasks. They have good WebSocket support, and their Digital Asset Standard implementation is very useful when working with NFTs.
 
+> [Create a Professional Contact Form with Telegram Bot API](https://exonoob.in/blog/create-a-professional-contact-form-with-telegram-bot-api/)
+
 ## [The Blockchain Data Indexing Protocol | The Graph](https://thegraph.com/)
 
 Before The Graph, it was difficult to query blockchain data. It enables you to use GraphQL to obtain the exact data you require at the appropriate time. No more clumsy REST APIs or intricate indexing solutions. Create your schema, index the information you require, and then start querying.
