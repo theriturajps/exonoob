@@ -22,6 +22,8 @@ tags:
 3. [MongoDB](https://mongoosejs.com/docs/guide.html) (or any database for storing scheduled jobs)
 4. SMTP credentials (Gmail, [SendGrid](https://sendgrid.com/en-us), or [Mailgun](https://www.mailgun.com/))
 
+> [Boost Express.js API Speed 10x with This Hidden Caching Trick (2025 Guide)](https://exonoob.in/blog/expressjs-api-speed-caching-trick/)
+
 ## Step 1: Set Up the Project
 ```bash
 mkdir ghost-messenger && cd ghost-messenger
