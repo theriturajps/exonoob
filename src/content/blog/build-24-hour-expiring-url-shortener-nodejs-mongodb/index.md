@@ -22,6 +22,8 @@ tags:
 - Basic JavaScript/[Express](https://expressjs.com/en/starter/installing.html) knowledge
 - Postman or curl for testing
 
+> [Build a Ghost Messenger API with Node.js for Delayed Emails](https://exonoob.in/blog/how-to-build-ghost-messenger-api-nodejs-delayed-emails/)
+
 ## Step 1: Project Setup
 Create your project directory and install essential packages:
 
