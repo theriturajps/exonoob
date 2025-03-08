@@ -15,6 +15,8 @@ tags:
 - **Skill Boost**: Master [Express.js routing](https://expressjs.com/en/guide/routing.html), [MongoDB TTL indexes](https://www.mongodb.com/docs/manual/core/index-ttl/), and frontend integration.
 - **Portfolio Potential**: Stand out with a unique project that showcases security awareness.
 
+> [Build a 24-Hour Expiring URL Shortener with Node.js & MongoDB](https://exonoob.in/blog/build-24-hour-expiring-url-shortener-nodejs-mongodb/)
+
 ## Prerequisites
 - Basic [Node.js](https://nodejs.org/docs/latest/api/)/[Express.js](https://expressjs.com/en/starter/installing.html) knowledge
 - [MongoDB](https://www.mongodb.com/) installed or a [free Atlas account](https://www.mongodb.com/products/platform/atlas-database)
