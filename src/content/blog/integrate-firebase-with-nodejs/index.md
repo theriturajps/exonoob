@@ -8,7 +8,7 @@ tags:
 - Firebase
 ---
 
-Firebase and Node.js form a powerful duo for building scalable web applications. Firebase offers backend-as-a-service (BaaS) features like real-time databases, [authentication](https://exonoob.in/blog/session-vs-jwt-authentication-in-expressjs/), and cloud functions, while Node.js provides a robust JavaScript runtime for server-side logic. In this tutorial, you’ll learn how to seamlessly integrate Firebase with [Node.js](https://nodejs.org/en/download), even if you’re new to backend development.
+Firebase and Node.js form a powerful duo for building scalable web applications. Firebase offers [backend-as-a-service](https://exonoob.in/blog/backend-as-a-service/) (BaaS) features like real-time databases, [authentication](https://exonoob.in/blog/session-vs-jwt-authentication-in-expressjs/), and cloud functions, while Node.js provides a robust JavaScript runtime for server-side logic. In this tutorial, you’ll learn how to seamlessly integrate Firebase with [Node.js](https://nodejs.org/en/download), even if you’re new to backend development.
 
 ![Firebase and Node.js Integration](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
