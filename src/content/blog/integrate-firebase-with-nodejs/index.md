@@ -14,7 +14,7 @@ Firebase and Node.js form a powerful duo for building scalable web applications.
 
 ## Why Use Firebase with Node.js?
 - **Real-Time Data Sync**: Firebase’s Realtime Database updates clients instantly.
-- **Authentication Made Easy**: Support for Google, Facebook, and email/password logins.
+- **Authentication Made Easy**: Support for Google, Facebook, and [email](https://exonoob.in/blog/setup-project-send-email-in-nodejs-using-nodemailer-and-gmail/)/password logins.
 - **Serverless Architecture**: Combine Firebase Cloud Functions with Node.js for cost-effective scaling.
 - **High Compatibility**: [Firebase’s JavaScript SDK](https://firebase.google.com/docs/reference/js) works natively with Node.js.
 

@@ -16,6 +16,8 @@ tags:
 - Solve real-world problems like event reminders or subscription renewals
 - Ideal for startups, SaaS products, or personal projects
 
+> [Integrate Firebase with Node.js: Step-by-Step Guide](https://exonoob.in/blog/integrate-firebase-with-nodejs/)
+
 ## Prerequisites
 1. Basic knowledge of JavaScript and [Node.js](https://nodejs.org/docs/latest/api/)
 2. [Node.js v18+ installed](https://nodejs.org/en/download)
